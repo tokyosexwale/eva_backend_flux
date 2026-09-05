@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Inicio | F.L.U.X{% endblock %}
+
+{% block content %}
+<div class="p-5 mb-4 bg-body-tertiary rounded-3 text-center border border-danger">
+    <h1 class="display-5 fw-bold text-danger">CINE UNDERGROUND Y EXPERIMENTAL</h1>
+    <p class="fs-4">Explora el archivo interactivo de cine transgresor, Serie B, Mondo y rarezas audiovisuales.</p>
+    <!-- Imagen Local de la App 1 -->
+    <img src="{% static 'img/inicio.png' %}" alt="absence" class="img-fluid rounded my-3 border border-secondary" style="max-height: 350px;">
+    <div>
+        <a href="{% url 'catalogo:lista_peliculas' %}" class="btn btn-danger btn-lg me-2">Ver Catálogo de Películas</a>
+        <a href="{% url 'principal:directores' %}" class="btn btn-outline-light btn-lg">Conocer Directores</a>
+    </div>
+</div>
+{% endblock %}

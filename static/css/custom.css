@@ -1,0 +1,343 @@
+/* =============================================================
+   FLUX — custom.css
+   Reskin de Bootstrap 5 (dark theme) para el sitio de cine
+   underground/de culto. Cargar DESPUÉS de bootstrap.min.css.
+
+   Nota técnica: varias utilidades de Bootstrap (.text-*, .bg-*,
+   .border-*) se generan con !important. Por eso algunos overrides
+   de acá también llevan !important — es lo único que gana contra
+   esas utilidades sin tocar el Sass fuente de Bootstrap.
+   ============================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Impact&family=Trebuchet+MS&display=swap');
+/* Recomendado: mover este @import a un <link> en el <head> de base.html
+   para que cargue en paralelo con el resto del CSS. */
+
+:root{
+  --bg:          #0a0a0a;
+  --panel:       #161616;
+  --edge:        #3a1414;   /* hairlines y bordes */
+  --accent:      #7a2020;   /* superficies grandes: franjas, bordes gruesos */
+  --accent-live: #9c2e2e;   /* texto/íconos chicos, hover, estados activos */
+  --text:        #e6e6e6;
+  --text-dim:    #8c8c8c;
+
+  --font-logo:    'Impact', Arial Black, sans-serif;
+  --font-display: 'Trebuchet MS', Arial, sans-serif;
+  --font-body:    Georgia, serif;
+}
+
+/* -------------------------------------------------------------
+   Base
+   ------------------------------------------------------------- */
+body{
+  background-color: var(--bg) !important;
+  color: var(--text) !important;
+  font-family: var(--font-body);
+}
+h1, h2, h3, h4, h5, .card-title{
+  font-family: var(--font-display);
+  letter-spacing: .3px;
+}
+
+/* Anular el redondeo global de Bootstrap: todo esquina recta */
+.card, .btn, .form-control, .badge, .list-group-item, .input-group .form-control,
+.img-fluid.rounded, .rounded, .rounded-start{
+  border-radius: 0 !important;
+}
+
+/* -------------------------------------------------------------
+   Navbar
+   ------------------------------------------------------------- */
+.navbar.bg-black{
+  background-color: #050505 !important;
+  min-height: 52px;
+}
+.navbar.border-danger{
+  border-bottom: 1px solid var(--edge) !important;
+}
+.navbar-brand.text-danger{
+  font-family: var(--font-logo);
+  font-size: 1.9rem !important;
+  color: var(--accent-live) !important;
+  letter-spacing: 1px;
+}
+.navbar-nav .nav-link{
+  font-family: var(--font-display);
+  font-size: .78rem;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--text-dim) !important;
+  padding: .5rem 1rem !important;
+  border-bottom: 2px solid transparent;
+  transition: color .15s ease, border-color .15s ease;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active{
+  color: var(--text) !important;
+  border-bottom-color: var(--accent-live);
+}
+
+/* -------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------- */
+footer.bg-black{
+  background-color: #050505 !important;
+  border-top: 1px solid var(--edge) !important;
+}
+footer p, footer .text-muted{
+  color: var(--text-dim) !important;
+  font-size: .8rem;
+}
+
+/* -------------------------------------------------------------
+   Hero de inicio.html
+   ------------------------------------------------------------- */
+.bg-body-tertiary.border-danger{
+  background-color: var(--panel) !important;
+  border: 1px solid var(--edge) !important;
+}
+.display-5.text-danger{
+  font-family: var(--font-display);
+  color: var(--text) !important;
+  font-weight: 700;
+}
+
+/* -------------------------------------------------------------
+   Botones
+   ------------------------------------------------------------- */
+.btn{
+  font-family: var(--font-display);
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: .55rem 1.4rem;
+}
+.btn-danger{
+  background-color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+.btn-danger:hover{
+  background-color: var(--accent-live) !important;
+  border-color: var(--accent-live) !important;
+}
+.btn-outline-danger{
+  color: var(--accent-live) !important;
+  border-color: var(--accent-live) !important;
+  background: transparent !important;
+}
+.btn-outline-danger:hover{
+  background-color: var(--accent-live) !important;
+  color: #050505 !important;
+}
+.btn-outline-light{
+  color: var(--text) !important;
+  border-color: var(--edge) !important;
+}
+.btn-outline-light:hover{
+  background-color: var(--panel) !important;
+  border-color: var(--text-dim) !important;
+}
+.btn-secondary{
+  background-color: var(--panel) !important;
+  border-color: var(--edge) !important;
+  color: var(--text) !important;
+}
+
+/* -------------------------------------------------------------
+   Buscador (peliculas.html)
+   ------------------------------------------------------------- */
+.input-group .form-control{
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid var(--edge) !important;
+  color: var(--text) !important;
+  padding-left: 0;
+}
+.input-group .form-control::placeholder{
+  color: var(--text-dim);
+}
+.input-group .form-control:focus{
+  box-shadow: none;
+  border-bottom-color: var(--accent-live) !important;
+}
+.input-group .btn-danger{
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid var(--edge) !important;
+  color: var(--text-dim) !important;
+}
+.input-group .btn-danger:hover{
+  color: var(--accent-live) !important;
+}
+
+/* -------------------------------------------------------------
+   Cards del catálogo
+   ------------------------------------------------------------- */
+.card.bg-black{
+  background-color: var(--panel) !important;
+  border: 1px solid var(--edge) !important;
+  transition: border-color .15s ease;
+}
+.card.bg-black:hover{
+  border-color: var(--accent-live) !important;
+}
+.card .card-title.text-danger{
+  color: var(--text) !important;
+  font-size: 1rem;
+}
+.card-text.text-truncate{
+  color: var(--text-dim) !important;
+  font-size: .85rem;
+}
+
+/* Badges de categoría: de "pill" sólida a etiqueta de ficha */
+.badge.bg-secondary{
+  background-color: transparent !important;
+  border: 1px solid var(--edge);
+  color: var(--accent-live) !important;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: .65rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: .3em .6em;
+  margin-right: .3em;
+}
+
+/* -------------------------------------------------------------
+   Ficha de película (detalle.html)
+   ------------------------------------------------------------- */
+.card.border-danger{
+  border: 1px solid var(--edge) !important;
+  background-color: var(--panel) !important;
+}
+.card-title.text-danger{
+  font-family: var(--font-display);
+  color: var(--text) !important;
+  font-size: 1.6rem;
+}
+.card-body .text-muted{
+  color: var(--text-dim) !important;
+  font-size: .85rem;
+}
+.card-body hr.border-secondary{
+  border-color: var(--edge) !important;
+  opacity: 1;
+}
+.card-body .lead{
+  color: var(--text) !important;
+  font-size: 1rem;
+}
+
+/* Metadata como hairlines, no bloques planos */
+.list-group-item.bg-dark{
+  background-color: transparent !important;
+  color: var(--text-dim) !important;
+  border-color: var(--edge) !important;
+  font-size: .85rem;
+  padding: .65rem 0;
+}
+.list-group-item.bg-dark strong{
+  color: var(--text) !important;
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: .3px;
+  margin-right: .4em;
+}
+
+/* Sello de "Estatus de Culto" — usalo envolviendo ese dato puntual
+   con <span class="cult-stamp">...</span> en vez de dejarlo en el
+   list-group junto al resto de la metadata. */
+.cult-stamp{
+  display: inline-block;
+  font-family: var(--font-display);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: .75rem;
+  color: var(--accent-live);
+  border: 2px solid var(--accent-live);
+  padding: .3em .7em;
+  transform: rotate(-2deg);
+}
+
+/* -------------------------------------------------------------
+   Directores (directores.html)
+   Estas reglas asumen que cambiás el grid de cards por una lista
+   de entradas (ver .director-entry más abajo). Mientras tanto,
+   esto igual reskinnea las cards actuales para que no desentonen.
+   ------------------------------------------------------------- */
+.card.bg-secondary{
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid var(--edge) !important;
+  border-radius: 0 !important;
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem !important;
+}
+.card.bg-secondary .card-title.text-warning{
+  font-family: var(--font-display);
+  color: var(--text) !important;
+  font-size: 1.4rem;
+}
+.card.bg-secondary .card-subtitle.text-dark{
+  color: var(--text-dim) !important;
+  font-weight: 400 !important;
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.card.bg-secondary .card-text{
+  color: var(--text) !important;
+  max-width: 65ch;
+}
+.card.bg-secondary em{
+  color: var(--accent-live);
+  font-style: normal;
+  font-family: var(--font-display);
+}
+
+/* Formato recomendado a futuro: reemplazar el grid de cards por
+   <div class="director-entry"> con esta estructura interna:
+   <h3 class="director-name">Nombre</h3>
+   <p class="director-meta">País · Estilo</p>
+   <p class="director-bio">Bio…</p>
+   <p class="director-work"><span>Obra clave</span> Título</p>          */
+.director-entry{
+  border-bottom: 1px solid var(--edge);
+  padding: 1.75rem 0;
+}
+.director-entry:first-child{ padding-top: 0; }
+.director-name{
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: var(--text);
+  margin-bottom: .2rem;
+}
+.director-meta{
+  color: var(--text-dim);
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: .8rem;
+}
+.director-bio{
+  max-width: 65ch;
+  color: var(--text);
+  font-size: .92rem;
+  line-height: 1.6;
+}
+.director-work{
+  font-size: .85rem;
+  color: var(--text-dim);
+  margin-top: .5rem;
+}
+.director-work span{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent-live);
+  font-family: var(--font-display);
+  font-size: .7rem;
+  margin-right: .5em;
+}

@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}{{ pelicula.title }} | F.L.U.X{% endblock %}
+
+{% block content %}
+<div class="card bg-black text-white border-danger">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="{{ pelicula.images.poster }}" class="img-fluid rounded-start" alt="{{ pelicula.title }}">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h2 class="card-title text-danger">{{ pelicula.title }} ({{ pelicula.year }})</h2>
+                <p class="text-muted">Director: <strong>{{ pelicula.director }}</strong> | País: <strong>{{ pelicula.country }}</strong></p>
+                <hr class="border-secondary">
+                <p class="lead">{{ pelicula.synopsis }}</p>
+                
+                <ul class="list-group list-group-flush bg-dark rounded">
+                    <li class="list-group-item bg-dark text-white"><strong>Duración:</strong> {{ pelicula.runtime_minutes }} minutos</li>
+                    <li class="list-group-item bg-dark text-white"><strong>Categorías:</strong> {{ pelicula.categories|join:", " }}</li>
+                    <li class="list-group-item bg-dark text-white"><strong>Estatus de Culto:</strong> {{ pelicula.metadata.cult_status }}</li>
+                    <li class="list-group-item bg-dark text-white"><strong>Formato:</strong> {{ pelicula.metadata.format }}</li>
+                    <li class="list-group-item bg-dark text-white"><strong>Audio:</strong> {{ pelicula.metadata.audio }}</li>
+                </ul>
+                
+                <a href="{% url 'catalogo:lista_peliculas' %}" class="btn btn-secondary mt-3">Volver al Catálogo</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
