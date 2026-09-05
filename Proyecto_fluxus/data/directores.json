@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "dir-001",
+    "nombre": "David Lynch",
+    "pais": "Estados Unidos",
+    "estilo": "Surrealismo e Industrial",
+    "obra_destacada": "Eraserhead",
+    "bio": "Pionero del cine surrealista estadounidense enfocado en la atmósfera sonora, el diseño de audio industrial y la exploración del inconsciente."
+  },
+  {
+    "id": "dir-002",
+    "nombre": "E. Elias Merhige",
+    "pais": "Estados Unidos",
+    "estilo": "Cine Extremo y Avant-Garde",
+    "obra_destacada": "Begotten",
+    "bio": "Director de culto conocido por su estética visual cruda de alto contraste, utilizando técnicas de filmación y procesado manual de celuloide sin diálogos."
+  },
+  {
+    "id": "dir-003",
+    "nombre": "Shinya Tsukamoto",
+    "pais": "Japón",
+    "estilo": "Cyberpunk y Body Horror",
+    "obra_destacada": "Tetsuo: The Iron Man / Tokyo Fist",
+    "bio": "Figura emblemática del cine independiente japonés, caracterizado por el uso frenético de stop-motion, temáticas de mutación industrial y bandas sonoras de ruido metálico."
+  },
+  {
+    "id": "dir-004",
+    "nombre": "John Waters",
+    "pais": "Estados Unidos",
+    "estilo": "Comedia Negra, Camp y Transgresor",
+    "obra_destacada": "Pink Flamingos",
+    "bio": "Apodado 'El Rey del Trash', es una figura de culto del cine underground de Baltimore que desafió la censura y los tabúes sociales con su estética camp."
+  },
+  {
+    "id": "dir-005",
+    "nombre": "Alejandro Jodorowsky",
+    "pais": "Chile / México",
+    "estilo": "Acid Western, Psicodelia y Esoterismo",
+    "obra_destacada": "El Topo / The Holy Mountain",
+    "bio": "Creador de la psicomagia y referente absoluto de las Midnight Movies, famoso por sus alegorías místicas, simbolismo de tarot y vanguardia visual."
+  },
+  {
+    "id": "dir-006",
+    "nombre": "Dušan Makavejev",
+    "pais": "Serbia / Yugoslavia",
+    "estilo": "Sátira Política y Avant-Garde",
+    "obra_destacada": "Sweet Movie",
+    "bio": "Cineasta de la Ola Negra yugoslava conocido por su enfoque collage, montaje provocador y sátiras sociopolíticas transgresoras."
+  },
+  {
+    "id": "dir-007",
+    "nombre": "Takashi Miike",
+    "pais": "Japón",
+    "estilo": "Cine Extremo, Comedia Negra y Yakuza",
+    "obra_destacada": "Visitor Q / Audition",
+    "bio": "Prolífico realizador japonés célebre por su cine de guerrilla, humor negro retorcido y representaciones extremas de la disfunción social."
+  },
+  {
+    "id": "dir-008",
+    "nombre": "Andrew Bujalski",
+    "pais": "Estados Unidos",
+    "estilo": "Mumblecore y Pseudo-Documental",
+    "obra_destacada": "Computer Chess",
+    "bio": "Considerado el 'padrino del Mumblecore', destaca por el uso de formatos de video analógico vintage y narrativas naturalistas lo-fi."
+  },
+  {
+    "id": "dir-009",
+    "nombre": "Rolf de Heer",
+    "pais": "Holanda / Australia",
+    "estilo": "Cine Independiente y Drama Psicológico",
+    "obra_destacada": "Bad Boy Bubby",
+    "bio": "Director australiano innovador conocido por su experimentación técnica en audio binaural y exploración del aislamiento humano."
+  },
+  {
+    "id": "dir-010",
+    "nombre": "Pier Paolo Pasolini",
+    "pais": "Italia",
+    "estilo": "Neorrealismo y Sátira Política Arthouse",
+    "obra_destacada": "Salò, or the 120 Days of Sodom",
+    "bio": "Intelectual y poeta italiano cuya obra cinematográfica abordó el marxismo, el mito clásico y críticas feroces al fascismo y consumismo."
+  },
+  {
+    "id": "dir-011",
+    "nombre": "Ruggero Deodato",
+    "pais": "Italia",
+    "estilo": "Found Footage y Explotación",
+    "obra_destacada": "Cannibal Holocaust",
+    "bio": "Pionero del subgénero Found Footage en el cine de horror, conocido por sus impactantes y controvertidos falsos documentales."
+  },
+  {
+    "id": "dir-012",
+    "nombre": "Jörg Buttgereit",
+    "pais": "Alemania",
+    "estilo": "Transgresor y Horror Psicológico Underground",
+    "obra_destacada": "Nekromantik / Schramm / Der Todesking",
+    "bio": "Ícono del cine underground alemán de bajo presupuesto rodado en Super 8mm y 16mm, enfocado en temas tabú de amor, muerte y alienación."
+  },
+  {
+    "id": "dir-013",
+    "nombre": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
+    "pais": "Bélgica",
+    "estilo": "Falso Documental y Sátira Criminal",
+    "obra_destacada": "Man Bites Dog",
+    "bio": "Trío de cineastas belgas creadores de una de las sátiras de falso documental en blanco y negro más influyentes y oscuras del cine independiente."
+  },
+  {
+    "id": "dir-014",
+    "nombre": "Satoru Ogura",
+    "pais": "Japón",
+    "estilo": "Gore Extremo y Explotación",
+    "obra_destacada": "Guinea Pig: Devil's Experiment",
+    "bio": "Productor y director célebre por impulsar la serie antológica de culto Guinea Pig en la era del formato de video doméstico VHS."
+  },
+  {
+    "id": "dir-015",
+    "nombre": "György Pálfi",
+    "pais": "Hungría",
+    "estilo": "Grotesco, Surrealismo y Body Horror",
+    "obra_destacada": "Taxidermia",
+    "bio": "Cineasta húngaro caracterizado por su narrativa visual grotesca, humor absurdo y estilizadas alegorías generacionales."
+  },
+  {
+    "id": "dir-016",
+    "nombre": "Karim Hussain",
+    "pais": "Canadá",
+    "estilo": "Avant-Garde Extremo y Surrealismo",
+    "obra_destacada": "Subconscious Cruelty",
+    "bio": "Director y director de fotografía canadiense reconocido por sus visiones poéticas y nihilistas del subconsciente dentro del cine underground."
+  },
+  {
+    "id": "dir-017",
+    "nombre": "Slava Tsukerman",
+    "pais": "Unión Soviética / Estados Unidos",
+    "estilo": "Sci-Fi Experimental y New Wave",
+    "obra_destacada": "Liquid Sky",
+    "bio": "Cineasta emigrado soviético que capturó la subcultura punk/queer del Nueva York de los 80 mediante estética synthwave y efectos visuales vanguardistas."
+  },
+  {
+    "id": "dir-018",
+    "nombre": "Buddy Giovinazzo",
+    "pais": "Estados Unidos",
+    "estilo": "Grindhouse y Drama Urbano Nihilista",
+    "obra_destacada": "Combat Shock",
+    "bio": "Autor neoyorquino independiente que plasmó el trauma bélico y la decadencia urbana de los años 80 con estilo crudo y visceral."
+  },
+  {
+    "id": "dir-019",
+    "nombre": "Harmony Korine",
+    "pais": "Estados Unidos",
+    "estilo": "Anti-Cine, Lo-Fi y Vanguardia Suburbana",
+    "obra_destacada": "Trash Humpers / Gummo",
+    "bio": "Provocador del cine independiente estadounidense que rechaza las estructuras narrativas tradicionales en favor de estéticas VHS y de contracultura."
+  },
+  {
+    "id": "dir-020",
+    "nombre": "Pascal Laugier",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Horror Filosófico",
+    "obra_destacada": "Martyrs",
+    "bio": "Exponente clave del Nuevo Extremismo Francés, combinando violencia explícita con cuestionamientos trascendentales y existenciales."
+  },
+  {
+    "id": "dir-021",
+    "nombre": "Luis Buñuel, Salvador Dalí",
+    "pais": "España / Francia",
+    "estilo": "Surrealismo Puro y Vanguardia",
+    "obra_destacada": "Un Chien Andalou",
+    "bio": "Dupla pionera del movimiento surrealista cinematográfico que revolucionó el lenguaje audiovisual al eliminar la lógica causal."
+  },
+  {
+    "id": "dir-022",
+    "nombre": "Nobuhiko Obayashi",
+    "pais": "Japón",
+    "estilo": "Psicodelia, Pop-Art y Fantasía",
+    "obra_destacada": "Hausu (House)",
+    "bio": "Director vanguardista de comerciales y cine fantástico japonés, famoso por su edición innovadora, efectos mecánicos y estilo pop-art."
+  },
+  {
+    "id": "dir-023",
+    "nombre": "Abel Ferrara",
+    "pais": "Estados Unidos",
+    "estilo": "Grindhouse, Slasher Underground y Neo-Noir",
+    "obra_destacada": "The Driller Killer",
+    "bio": "Icono del cine de culto neoyorquino especializado en retratar la decadencia urbana, la culpa y la violencia callejera con estilo guerrillero."
+  },
+  {
+    "id": "dir-024",
+    "nombre": "Fabrice Du Welz",
+    "pais": "Bélgica",
+    "estilo": "Nuevo Extremismo Francés y Horror Rural",
+    "obra_destacada": "Calvaire (The Ordeal)",
+    "bio": "Director belga conocido por su atmósfera opresiva y estudios claustrofóbicos de la locura y el aislamiento."
+  },
+  {
+    "id": "dir-025",
+    "nombre": "J. Michael Muro",
+    "pais": "Estados Unidos",
+    "estilo": "Body Horror y Comedia Splatter",
+    "obra_destacada": "Street Trash",
+    "bio": "Reconocido operador de Steadicam e innovador del cine B neoyorquino famoso por su clásico de culto en body horror de derretimientos."
+  },
+  {
+    "id": "dir-026",
+    "nombre": "Gerald Kargl",
+    "pais": "Austria",
+    "estilo": "Horror Psicológico e Hiperrealismo",
+    "obra_destacada": "Angst",
+    "bio": "Cineasta austriaco aclamado por su innovador trabajo de cámara flotante y perspectiva subjetiva hiperrealista sobre la locura criminal."
+  },
+  {
+    "id": "dir-027",
+    "nombre": "David Cronenberg",
+    "pais": "Canadá",
+    "estilo": "Body Horror y Sci-Fi Psicológico",
+    "obra_destacada": "Videodrome / The Fly",
+    "bio": "Maestro indiscutible del Body Horror que explora la interacción de la tecnología, la carne y el comportamiento humano aberrante."
+  },
+  {
+    "id": "dir-028",
+    "nombre": "Gaspar Noé",
+    "pais": "Argentina / Francia",
+    "estilo": "Cine Transgresor e Hipnótico",
+    "obra_destacada": "Irreversible / Enter the Void",
+    "bio": "Cineasta conocido por sus experiencias inmersivas, uso de luz estroboscópica, planos secuencia complejos y temáticas nihilistas."
+  },
+  {
+    "id": "dir-029",
+    "nombre": "Marina de Van",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Body Horror",
+    "obra_destacada": "In My Skin (Dans ma peau)",
+    "bio": "Directora francesa enfocada en la automutilación, el distanciamiento de la propia identidad corporal y la obsesión física."
+  },
+  {
+    "id": "dir-030",
+    "nombre": "Freddie Francis",
+    "pais": "Reino Unido",
+    "estilo": "Gótico y Horror de Hammer / Amicus",
+    "obra_destacada": "Trog",
+    "bio": "Director y galardonado director de fotografía británico célebre por sus contribuciones al horror de serie B y gótico."
+  },
+  {
+    "id": "dir-031",
+    "nombre": "Frank Henenlotter",
+    "pais": "Estados Unidos",
+    "estilo": "Splatter, Comedia B y Body Horror",
+    "obra_destacada": "Basket Case",
+    "bio": "Director de culto neoyorquino especializado en criaturas grotescas, mutaciones urbanas y comedias de terror de bajo presupuesto."
+  },
+  {
+    "id": "dir-032",
+    "nombre": "Lucio Fulci",
+    "pais": "Italia",
+    "estilo": "Giallo, Horror Zombie y Splatter",
+    "obra_destacada": "Zombi 2 / The Beyond",
+    "bio": "El 'Poeta del Macabro', pionero del cine de horror italiano famoso por sus imágenes ultra-violentas, atmósferas oníricas y gore artesanal."
+  },
+  {
+    "id": "dir-033",
+    "nombre": "Brian Yuzna",
+    "pais": "Estados Unidos / Filipinas",
+    "estilo": "Body Horror y Splatter",
+    "obra_destacada": "Society",
+    "bio": "Cineasta de culto y productor clave en el género de horror de los 80/90, conocido por sus surrealistas secuencias de deformación corporal."
+  },
+  {
+    "id": "dir-034",
+    "nombre": "Fred Vogel",
+    "pais": "Estados Unidos",
+    "estilo": "Extreme Underground y Shock Cinema",
+    "obra_destacada": "August Underground",
+    "bio": "Fundador de Toetag Pictures y creador de la controvertida saga de found-footage extremo August Underground."
+  },
+  {
+    "id": "dir-035",
+    "nombre": "Lloyd Kaufman",
+    "pais": "Estados Unidos",
+    "estilo": "Comedia Splatter, Camp y B-Movie",
+    "obra_destacada": "The Toxic Avenger",
+    "bio": "Fundador de Troma Entertainment, ícono indiscutible del cine independiente de bajo presupuesto caracterizado por sátira, sangre y mutantes."
+  },
+  {
+    "id": "dir-036",
+    "nombre": "Ken Russell",
+    "pais": "Reino Unido",
+    "estilo": "Barroco, Psicodelia y Arthouse Extremo",
+    "obra_destacada": "The Devils / Altered States",
+    "bio": "Cineasta visionario británico conocido por sus puestas en escena teatrales, excesos religiosos, erótico-místicos y psicodélicos."
+  },
+  {
+    "id": "dir-037",
+    "nombre": "Gakuryu (Sogo) Ishii",
+    "pais": "Japón",
+    "estilo": "Cyberpunk, Punk Cinema y Acción Guerrilla",
+    "obra_destacada": "Burst City / Electric Dragon 80.000V",
+    "bio": "Pionero del movimiento cyberpunk japonés y del cine punk independiente de alta velocidad y edición frenética."
+  },
+  {
+    "id": "dir-038",
+    "nombre": "Marian Dora",
+    "pais": "Alemania",
+    "estilo": "Extreme Shock Cinema y Nihilismo",
+    "obra_destacada": "Cannibal / Melancholie der Engel",
+    "bio": "Enigmático director underground alemán célebre por su estilo visual poético opuesto a representaciones de extrema atrocidad."
+  },
+  {
+    "id": "dir-039",
+    "nombre": "Richard Stanley",
+    "pais": "Sudáfrica",
+    "estilo": "Sci-Fi Cyberpunk y Horror Cósmico",
+    "obra_destacada": "Hardware / Dust Devil",
+    "bio": "Director visionario conocido por combinar estéticas posapocalípticas industriales con mitología y terror espiritual."
+  },
+  {
+    "id": "dir-040",
+    "nombre": "Peter Jackson",
+    "pais": "Nueva Zelanda",
+    "estilo": "Splatter Comedy y Gore Artesanal",
+    "obra_destacada": "Dead Alive (Braindead) / Bad Taste",
+    "bio": "Antes de sus épicas de fantasía, revolucionó el cine splatter con comedias sangrientas repletas de efectos prácticos y humor absurdo."
+  },
+  {
+    "id": "dir-041",
+    "nombre": "Dario Argento",
+    "pais": "Italia",
+    "estilo": "Giallo y Horror Barroco Visual",
+    "obra_destacada": "Suspiria / Deep Red",
+    "bio": "El 'Maestro del Horror' italiano, famoso por sus encuadres estilizados, bandas sonoras progresivas y uso expresivo del color saturado."
+  },
+  {
+    "id": "dir-042",
+    "nombre": "Sion Sono",
+    "pais": "Japón",
+    "estilo": "Avant-Garde, Drama Policial y Comedia Extrema",
+    "obra_destacada": "Suicide Club / Strange Circus",
+    "bio": "Poeta y cineasta prolífico vanguardista que explora el nihilismo juvenil, el fanatismo, la sexualidad y las sectas sociales."
+  },
+  {
+    "id": "dir-043",
+    "nombre": "Tom Six",
+    "pais": "Países Bajos",
+    "estilo": "Body Horror y Shock Exploitation",
+    "obra_destacada": "The Human Centipede",
+    "bio": "Cineasta neerlandés conocido mundialmente por crear la saga conceptual de shock de El Ciempiés Humano."
+  },
+  {
+    "id": "dir-044",
+    "nombre": "Panos Cosmatos",
+    "pais": "Canadá / Italia",
+    "estilo": "Psychedelic Horror, Synthwave y Neo-Grindhouse",
+    "obra_destacada": "Mandy / Beyond the Black Rainbow",
+    "bio": "Reconocido por sus narrativas de ritmo lento e hipnótico, iluminación de neón intensa y bandas sonoras analógicas retro."
+  },
+  {
+    "id": "dir-045",
+    "nombre": "Julia Ducournau",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Body Horror",
+    "obra_destacada": "Raw / Titane",
+    "bio": "Directora galardonada con la Palma de Oro caracterizada por sus viscerales aproximaciones a las transformaciones físicas y la identidad."
+  },
+  {
+    "id": "dir-046",
+    "nombre": "Lucile Hadžihalilović",
+    "pais": "Francia",
+    "estilo": "Arthouse Metafórico y Horror Atmosférico",
+    "obra_destacada": "Evolution / Innocence",
+    "bio": "Directora francesa conocida por sus imágenes enigmáticas, ritmos pausados y temas de maduración, aislamiento y anatomía."
+  },
+  {
+    "id": "dir-047",
+    "nombre": "Nacho Cerdà",
+    "pais": "España",
+    "estilo": "Horror Macabro y Cortometraje Transgresor",
+    "obra_destacada": "Aftermath",
+    "bio": "Director español de culto aclamado por su trilogía sobre la muerte y la aproximación clínica desprovista de diálogos hacia el cadáver."
+  },
+  {
+    "id": "dir-048",
+    "nombre": "Kiyoshi Kurosawa",
+    "pais": "Japón",
+    "estilo": "J-Horror Atmosférico y Thriller Existencial",
+    "obra_destacada": "Pulse (Kairo) / Cure",
+    "bio": "Maestro del terror psicológico japonés que utiliza el silencio, la distancia de cámara y la alienación urbana para infundir pavor."
+  },
+  {
+    "id": "dir-049",
+    "nombre": "Kōji Shiraishi",
+    "pais": "Japón",
+    "estilo": "Found Footage y J-Horror Documental",
+    "obra_destacada": "Noroi: The Curse / Occult",
+    "bio": "Reconocido por perfeccionar el horror en falso documental con mitología folclórica compleja y realismo inquietante."
+  },
+  {
+    "id": "dir-050",
+    "nombre": "Andrzej Żuławski",
+    "pais": "Polonia",
+    "estilo": "Drama Expresionista y Horror Psicológico",
+    "obra_destacada": "Possession",
+    "bio": "Cineasta polaco célebre por sus actuaciones frenéticas, cinematografía desenfrenada y análisis de la histeria y el colapso emocional."
+  },
+  {
+    "id": "dir-051",
+    "nombre": "Lars von Trier",
+    "pais": "Dinamarca",
+    "estilo": "Dogma 95, Provocación y Horror Existencial",
+    "obra_destacada": "Antichrist / The House That Jack Built",
+    "bio": "Cofundador de Dogma 95 y director provocador que explora la depresión, el nihilismo y la violencia en obras de alto impacto."
+  },
+  {
+    "id": "dir-052",
+    "nombre": "S. Craig Zahler",
+    "pais": "Estados Unidos",
+    "estilo": "Neo-Western, Grindhouse y Thriller Violento",
+    "obra_destacada": "Bone Tomahawk / Brawl in Cell Block 99",
+    "bio": "Escritor y director caracterizado por diálogos pausados y rítmicos contrastados con estallidos de violencia hiperrealista y brutal."
+  },
+  {
+    "id": "dir-053",
+    "nombre": "Can Evrenol",
+    "pais": "Turquía",
+    "estilo": "Horror Surreal y Pesadilla Onírica",
+    "obra_destacada": "Baskin",
+    "bio": "Director turco que destaca por crear atmósferas infernales inspiradas en la mitología otomana y la imaginería pesadillesca."
+  },
+  {
+    "id": "dir-054",
+    "nombre": "Hélène Cattet, Bruno Forzani",
+    "pais": "Francia / Bélgica",
+    "estilo": "Neo-Giallo y Cine Sensorial Experimental",
+    "obra_destacada": "Amer / The Strange Color of Your Body's Tears",
+    "bio": "Dúo de realizadores dedicados a deconstruir el género giallo mediante un montaje híper-sensorial, fetichista y estilizado."
+  },
+  {
+    "id": "dir-055",
+    "nombre": "Yorgos Lanthimos",
+    "pais": "Grecia",
+    "estilo": "Ola Absurda Griega y Sátira Distópica",
+    "obra_destacada": "Dogtooth (Canino)",
+    "bio": "Pionero de la Ola Absurda Griega, famoso por sus diálogos robóticos, exploración de la alienación y dinámicas de poder opresivas."
+  },
+  {
+    "id": "dir-056",
+    "nombre": "Michael Haneke",
+    "pais": "Austria",
+    "estilo": "Hiperrealismo, Violencia Fria y Arthouse",
+    "obra_destacada": "Funny Games",
+    "bio": "Cineasta austríaco austero reconocido por sus reflexiones críticas sobre la voyeurística complicidad del espectador en la violencia."
+  },
+  {
+    "id": "dir-057",
+    "nombre": "Alex van Warmerdam",
+    "pais": "Países Bajos",
+    "estilo": "Comedia Negra Absurda y Thriller",
+    "obra_destacada": "Borgman",
+    "bio": "Director y dramaturgo holandés centrado en la intrusión del mal cotidiano y la sátira de la burguesía mediante el absurdo."
+  },
+  {
+    "id": "dir-058",
+    "nombre": "Tetsuya Nakashima",
+    "pais": "Japón",
+    "estilo": "Visual Pop, Thriller Psicológico Extremo",
+    "obra_destacada": "Confessions (Kokuhaku) / The World of Kanako",
+    "bio": "Cineasta japonés célebre por su edición estilizada de video musical y relatos sombríos de venganza y disfunción juvenil."
+  },
+  {
+    "id": "dir-059",
+    "nombre": "Yoshihiro Nishimura",
+    "pais": "Japón",
+    "estilo": "Gore Splatter, Cyberpunk y Efectos Especiales",
+    "obra_destacada": "Tokyo Gore Police",
+    "bio": "Maestro de efectos especiales y director ícono del 'Extreme Japanese Gore' caracterizado por mutaciones biomecánicas exageradas."
+  },
+  {
+    "id": "dir-060",
+    "nombre": "Noboru Iguchi",
+    "pais": "Japón",
+    "estilo": "Splatter Comedy y Culto B",
+    "obra_destacada": "The Machine Girl / RoboGeisha",
+    "bio": "Director japonés especializado en la comedia absurda de acción y mutilaciones ultra-sangrientas en la subcultura de video doméstico."
+  },
+  {
+    "id": "dir-061",
+    "nombre": "Shozin Fukui",
+    "pais": "Japón",
+    "estilo": "Industrial Cyberpunk y Body Horror Experimental",
+    "obra_destacada": "964 Pinocchio / Rubber's Lover",
+    "bio": "Cineasta underground contemporáneo a Tsukamoto, enfocado en el ruido industrial, la tortura psicológica e hiperactividad visual."
+  },
+  {
+    "id": "dir-062",
+    "nombre": "Timo Tjahjanto",
+    "pais": "Indonesia",
+    "estilo": "Acción Extrema, Horror y Gore",
+    "obra_destacada": "May the Devil Take You / The Night Comes for Us",
+    "bio": "Director indonesio célebre por su cine visceral de artes marciales ultra-violentas y terror con posesiones demoníacas sangrientas."
+  },
+  {
+    "id": "dir-063",
+    "nombre": "Joko Anwar",
+    "pais": "Indonesia",
+    "estilo": "Horror Folclórico y Thriller Psicológico",
+    "obra_destacada": "Satan's Slaves / Impetigore",
+    "bio": "Figura central del renacimiento del cine de terror del sudeste asiático con ricas historias basadas en mitos tradicionales de su región."
+  },
+  {
+    "id": "dir-064",
+    "nombre": "Kim Jee-woon",
+    "pais": "Corea del Sur",
+    "estilo": "Thriller Psicológico, Neo-Noir y Horror",
+    "obra_destacada": "I Saw the Devil / A Tale of Two Sisters",
+    "bio": "Director surcoreano virtuoso en la construcción de tensión, elegancia visual y representación estilizada de la venganza extrema."
+  },
+  {
+    "id": "dir-065",
+    "nombre": "Park Chan-wook",
+    "pais": "Corea del Sur",
+    "estilo": "Neo-Noir, Drama Trágico y Venganza",
+    "obra_destacada": "Oldboy / Thirst",
+    "bio": "Cineasta insigne del cine surcoreano famoso por su impecable simetría visual, violencia poética y temas de expiación."
+  },
+  {
+    "id": "dir-066",
+    "nombre": "Na Hong-jin",
+    "pais": "Corea del Sur",
+    "estilo": "Thriller Policial y Horror Chamanístico",
+    "obra_destacada": "The Wailing / The Chaser",
+    "bio": "Director perfeccionista experto en crear opresivas atmósferas de paranoia, superstición folclórica y desesperación."
+  },
+  {
+    "id": "dir-067",
+    "nombre": "Arianlev Crotone",
+    "pais": "Italia / Chile",
+    "estilo": "Underground Experimental y Shock Cinema",
+    "obra_destacada": "Visions of Suffering",
+    "bio": "Realizador del circuito subterráneo independiente centrado en la imaginería dantesca, pesadillas teológicas y angustia visceral."
+  },
+  {
+    "id": "dir-068",
+    "nombre": "James Wan",
+    "pais": "Australia",
+    "estilo": "Horror Sobrenatural y Torture Porn",
+    "obra_destacada": "Saw",
+    "bio": "Director que revitalizó el terror moderno a comienzos de los 2000 introduciendo refinadas trampas mecánicas y suspenso masivo."
+  },
+  {
+    "id": "dir-069",
+    "nombre": "Eli Roth",
+    "pais": "Estados Unidos",
+    "estilo": "Splatter, Gore y Splatterpunk",
+    "obra_destacada": "Hostel / Green Inferno",
+    "bio": "Figura clave del 'Splatter Cinema' americano de los años 2000, explorando el turismo del miedo, la xenofobia y el desmembramiento."
+  },
+  {
+    "id": "dir-070",
+    "nombre": "Alexandre Aja",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Slasher",
+    "obra_destacada": "High Tension (Haute Tension)",
+    "bio": "Cineasta francés que catapultó el terror de su país internacionalmente con un cine directo, sangriento y sin concesiones."
+  },
+  {
+    "id": "dir-071",
+    "nombre": "Julien Maury, Alexandre Bustillo",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Slasher Barroco",
+    "obra_destacada": "Inside (À l'intérieur)",
+    "bio": "Dúo creativo célebre por dirigir una de las piezas sangrientas y claustrofóbicas más intensas de la invasión doméstica moderna."
+  },
+  {
+    "id": "dir-072",
+    "nombre": "Xavier Gens",
+    "pais": "Francia",
+    "estilo": "Nuevo Extremismo Francés y Sci-Fi Horror",
+    "obra_destacada": "Frontier(s)",
+    "bio": "Director enfocado en la tensión política, violencia brutal e historias de supervivencia en entornos claustrofóbicos."
+  },
+  {
+    "id": "dir-073",
+    "nombre": "Sean Byrne",
+    "pais": "Australia",
+    "estilo": "Horror Juvenil y Slasher Psicológico",
+    "obra_destacada": "The Loved Ones / The Devil's Candy",
+    "bio": "Cineasta australiano que mezcla música heavy metal, psicopatía juvenil y suspenso de alta tensión estilizada."
+  },
+  {
+    "id": "dir-074",
+    "nombre": "Greg McLean",
+    "pais": "Australia",
+    "estilo": "Ozploitation y Slasher Out-back",
+    "obra_destacada": "Wolf Creek",
+    "bio": "Responsable del resurgimiento del terror australiano mediante la creación de icónicos psicópatas en desiertos hostiles."
+  },
+  {
+    "id": "dir-075",
+    "nombre": "Ben Wheatley",
+    "pais": "Reino Unido",
+    "estilo": "Horror Folclórico, Psicodelia y Comedia Negra",
+    "obra_destacada": "Kill List / A Field in England",
+    "bio": "Director británico conocido por fusionar realismo de clase trabajadora con culto esotérico y horror psicológico opresivo."
+  },
+  {
+    "id": "dir-076",
+    "nombre": "Jeremy Saulnier",
+    "pais": "Estados Unidos",
+    "estilo": "Thriller Violento e Hiperrealismo Guerrilla",
+    "obra_destacada": "Green Room / Blue Ruin",
+    "bio": "Cineasta aclamado por retratar la violencia práctica, cruda, torpe e ineludible en situaciones límite."
+  },
+  {
+    "id": "dir-077",
+    "nombre": "Sion Sono",
+    "pais": "Japón",
+    "estilo": "Avant-Garde Extremo y Cine de Culto",
+    "obra_destacada": "Love Exposure",
+    "bio": "Renombrado director de cine underground y de autor que satiriza la religión, la erotomanía y la sociedad moderna en épicas de larga duración."
+  },
+  {
+    "id": "dir-078",
+    "nombre": "Satoshi Kon",
+    "pais": "Japón",
+    "estilo": "Anime Psicológico y Surrealismo",
+    "obra_destacada": "Perfect Blue / Paprika",
+    "bio": "Genio de la animación japonesa maestro en difuminar las fronteras entre realidad, ilusión y paranoia tecnológica."
+  },
+  {
+    "id": "dir-079",
+    "nombre": "Katsuhiro Otomo",
+    "pais": "Japón",
+    "estilo": "Anime Cyberpunk y Sci-Fi Épico",
+    "obra_destacada": "Akira",
+    "bio": "Leyenda del manga y anime pionero de la estética cyberpunk global y mutación física apocalíptica."
+  },
+  {
+    "id": "dir-080",
+    "nombre": "Atsushi Wada",
+    "pais": "Japón",
+    "estilo": "Animación Experimental y Grotesco absurdo",
+    "obra_destacada": "In A Pig's Eye",
+    "bio": "Animador contemporáneo enfocado en movimientos corporales incómodos, ritmos extraños y humor absurdo."
+  },
+  {
+    "id": "dir-081",
+    "nombre": "Masaaki Yuasa",
+    "pais": "Japón",
+    "estilo": "Animación Vanguardista, Psicodelia y Surrealismo",
+    "obra_destacada": "Mind Game",
+    "bio": "Director de animación famoso por su estilo visual fluido, libre, expresionista y de explosión cromática fuera de convencionalismos."
+  },
+  {
+    "id": "dir-082",
+    "nombre": "Bill Plympton",
+    "pais": "Estados Unidos",
+    "estilo": "Animación Independiente, Sátira y Surrealismo",
+    "obra_destacada": "I Married a Strange Person! / Mutafukaz",
+    "bio": "Referente de la animación independiente tradicional hecha a mano, conocido por su humor grotesco, metamorfosis físicas y estilo satírico."
+  },
+  {
+    "id": "dir-083",
+    "nombre": "Guillermo del Toro",
+    "pais": "México",
+    "estilo": "Fantasía Oscura, Cuento de Hadas y Horror Gótico",
+    "obra_destacada": "El laberinto del fauno / La forma del agua",
+    "bio": "Aclamado cineasta especializado en la creación de monstruos, mitologías oscuras y poética del horror barroco."
+  },
+  {
+    "id": "dir-084",
+    "nombre": "Terry Gilliam",
+    "pais": "Estados Unidos / Reino Unido",
+    "estilo": "Distopía, Absurdo y Fantasía Barroca",
+    "obra_destacada": "Brazil / 12 Monkeys",
+    "bio": "Exintegrante de Monty Python y visionario que contrasta la burocracia opresiva con desbordantes universos surrealistas."
+  },
+  {
+    "id": "dir-085",
+    "nombre": "Robert Eggers",
+    "pais": "Estados Unidos",
+    "estilo": "Horror Folclórico, Perforación Histórica y Misticismo",
+    "obra_destacada": "The Witch / The Lighthouse",
+    "bio": "Director meticuloso enfocado en el detalle histórico, dialectos antiguos, superstición y la decadencia de la cordura humana."
+  },
+  {
+    "id": "dir-086",
+    "nombre": "Ari Aster",
+    "pais": "Estados Unidos",
+    "estilo": "Horror Psicológico, Trauma Familiar y Cultos",
+    "obra_destacada": "Hereditary / Midsommar",
+    "bio": "Cineasta moderno insigne por deconstruir el duelo, las dinámicas familiares tóxicas y el terror en plena luz del día."
+  },
+  {
+    "id": "dir-087",
+    "nombre": "Jordan Peele",
+    "pais": "Estados Unidos",
+    "estilo": "Sátira Social, Sci-Fi y Horror Psicológico",
+    "obra_destacada": "Get Out / Us / Nope",
+    "bio": "Guionista y director que revolucionó el terror contemporáneo conectando alegorías raciales y paranoia social con tensión clásica."
+  },
+  {
+    "id": "dir-088",
+    "nombre": "Nicolas Winding Refn",
+    "pais": "Dinamarca",
+    "estilo": "Neo-Noir, Neón Estilizado y Violencia Lenta",
+    "obra_destacada": "Drive / The Neon Demon",
+    "bio": "Director danés reconocido por su narrativa minimalista, atmósferas sintetizadas e impecable estética saturada de neón."
+  },
+  {
+    "id": "dir-089",
+    "nombre": "Brandon Cronenberg",
+    "pais": "Canadá",
+    "estilo": "Sci-Fi Body Horror y Satira Corporativa",
+    "obra_destacada": "Antiviral / Possessor / Infinity Pool",
+    "bio": "Hijo de David Cronenberg que expande la tradición del body horror con alucinaciones psicodélicas, tecnología alienante e identidad."
+  },
+  {
+    "id": "dir-090",
+    "nombre": "Jennifer Kent",
+    "pais": "Australia",
+    "estilo": "Horror Psicológico y Trauma de Época",
+    "obra_destacada": "The Babadook / The Nightingale",
+    "bio": "Directora australiana aclamada por explorar el duelo materno, los traumas no resueltos y la crueldad humana en entornos hostiles."
+  },
+  {
+    "id": "dir-091",
+    "nombre": "Rose Glass",
+    "pais": "Reino Unido",
+    "estilo": "Horror Psicológico y Obsesión Religiosa",
+    "obra_destacada": "Saint Maud",
+    "bio": "Cineasta británica emergente caracterizada por sus íntimos análisis del fanatismo religioso, la soledad y la alienación mental."
+  },
+  {
+    "id": "dir-092",
+    "nombre": "Prano Bailey-Bond",
+    "pais": "Reino Unido",
+    "estilo": "Meta-Horror y Estética Video Nasty",
+    "obra_destacada": "Censor",
+    "bio": "Directora de culto que rinde tributo a la era dorada del formato VHS y la censura cinematográfica del Reino Unido de los 80."
+  },
+  {
+    "id": "dir-093",
+    "nombre": "Ti West",
+    "pais": "Estados Unidos",
+    "estilo": "Retro Slasher, Homena-je a Género y Suspenso",
+    "obra_destacada": "The House of the Devil / X / Pearl",
+    "bio": "Especialista en recrear estéticas cinematográficas de décadas pasadas con narrativas de ritmo meticuloso y explosiones violentas."
+  },
+  {
+    "id": "dir-094",
+    "nombre": "David Robert Mitchell",
+    "pais": "Estados Unidos",
+    "estilo": "Horror Sobrenatural, Neo-Noir y Paranoia Urban",
+    "obra_destacada": "It Follows / Under the Silver Lake",
+    "bio": "Conocido por su uso espacial de cámara panorámica, bandas sonoras de sintetizador y alegorías sobre la ansiedad juvenil."
+  },
+  {
+    "id": "dir-095",
+    "nombre": "Shuka Tokairin",
+    "pais": "Japón",
+    "estilo": "Underground Experimental y Cine de Vanguardia",
+    "obra_destacada": "Cineastas Independientes Japoneses",
+    "bio": "Realizador de la escena independiente de Tokio enfocado en la experimentación visual y sensaciones abstractas."
+  },
+  {
+    "id": "dir-096",
+    "nombre": "Toshiharu Ikeda",
+    "pais": "Japón",
+    "estilo": "Erotic Slasher, Thriller y Roman Porno",
+    "obra_destacada": "Evil Dead Trap",
+    "bio": "Director clave del cine de explotación japonés de los 80 que combinó slasher sangriento con surrealismo y gore mecánico."
+  },
+  {
+    "id": "dir-097",
+    "nombre": "Atsushi Muroga",
+    "pais": "Japón",
+    "estilo": "Acción B, Cyber-Gunfight y Yakuza Sci-Fi",
+    "obra_destacada": "Junk: Shiryō no Geki-jō",
+    "bio": "Cineasta especializado en películas de acción de bajo presupuesto inspiradas en el cine de zombis y tiroteos occidentales."
+  },
+  {
+    "id": "dir-098",
+    "nombre": "Keita Amemiya",
+    "pais": "Japón",
+    "estilo": "Tokusatsu, Dark Fantasy y Biomecánica",
+    "obra_destacada": "Zeiram / Garo",
+    "bio": "Ilustrador, diseñador de criaturas y director influyente por su trabajo en el género tokusatsu de fantasía oscura para adultos."
+  },
+  {
+    "id": "dir-099",
+    "nombre": "Hiroyuki Okiura",
+    "pais": "Japón",
+    "estilo": "Anime Policial, Drama Realista y Sci-Fi",
+    "obra_destacada": "Jin-Roh: The Wolf Brigade",
+    "bio": "Animador e histórico director de Production I.G. reconocido por su animación de personajes hiperrealista y detallada."
+  },
+  {
+    "id": "dir-100",
+    "nombre": "Shinichiro Watanabe",
+    "pais": "Japón",
+    "estilo": "Anime Neo-Noir, Sci-Fi y Fusión Musical",
+    "obra_destacada": "Cowboy Bebop / Animatrix",
+    "bio": "Legendario realizador de animación famoso por fusionar impecablemente géneros cinematográficos con estilos musicales como el jazz y el hip-hop."
+  },
+  {
+    "id": "dir-101",
+    "nombre": "Adrian Lyne",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-102",
+    "nombre": "Alex Cox",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-103",
+    "nombre": "Alex Proyas",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-104",
+    "nombre": "Alexander Hammid",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-105",
+    "nombre": "Alexandre Bustillo",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-106",
+    "nombre": "Andy Warhol",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-107",
+    "nombre": "Anthony Mann",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-108",
+    "nombre": "Benjamin Christensen",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-109",
+    "nombre": "Bruce Conner",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-110",
+    "nombre": "Bruce LaBruce",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-111",
+    "nombre": "Carlos Enrique Taboada",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-112",
+    "nombre": "Chris Marker",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-113",
+    "nombre": "Clive Barker",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-114",
+    "nombre": "Cory McAbee",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-115",
+    "nombre": "Darren Aronofsky",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-116",
+    "nombre": "Don Coscarelli",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-117",
+    "nombre": "Douglas Trumbull",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-118",
+    "nombre": "Edward D. Wood Jr.",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-119",
+    "nombre": "Franco Prosperi",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-120",
+    "nombre": "George A. Romero",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-121",
+    "nombre": "Gideon Bachmann",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-122",
+    "nombre": "Glen Stephens",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-123",
+    "nombre": "Gualtiero Jacopetti",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-124",
+    "nombre": "Guy Maddin",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-125",
+    "nombre": "Harold P. Warren",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-126",
+    "nombre": "Harry Kümel",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-127",
+    "nombre": "Herman Yau",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-128",
+    "nombre": "Herschell Gordon Lewis",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-129",
+    "nombre": "Hideshi Hino",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-130",
+    "nombre": "Jack Smith",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-131",
+    "nombre": "James Bidgood",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-132",
+    "nombre": "James Gunn",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-133",
+    "nombre": "James Ward Byrkit",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-134",
+    "nombre": "Jaromil Jireš",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-135",
+    "nombre": "Jean-François Guiton",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-136",
+    "nombre": "Jean-Pierre Jeunet",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-137",
+    "nombre": "Jesús Franco",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-138",
+    "nombre": "Jim Sharman",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-139",
+    "nombre": "Jimmy T. Murakami",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-140",
+    "nombre": "John Alan Schwartz",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-141",
+    "nombre": "José Mojica Marins",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-142",
+    "nombre": "Juan López Moctezuma",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-143",
+    "nombre": "Julien Maury",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-144",
+    "nombre": "Kenneth Anger",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-145",
+    "nombre": "Kinji Fukasaku",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-146",
+    "nombre": "L.Q. Jones",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-147",
+    "nombre": "Louis J. Gasnier",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-148",
+    "nombre": "Luis Buñuel",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-149",
+    "nombre": "Marc Caro",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-150",
+    "nombre": "Maya Deren",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-151",
+    "nombre": "Michael Herz",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-152",
+    "nombre": "Michael Reeves",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-153",
+    "nombre": "Michael Snow",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-154",
+    "nombre": "Nagisa Ōshima",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-155",
+    "nombre": "Paolo Cavara",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-156",
+    "nombre": "Paul Morrissey",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-157",
+    "nombre": "Peter Weir",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-158",
+    "nombre": "Philip Brophy",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-159",
+    "nombre": "Piers Haggard",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-160",
+    "nombre": "Pupi Avati",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-161",
+    "nombre": "Quentin Dupieux",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-162",
+    "nombre": "René Laloux",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-163",
+    "nombre": "Richard Elfman",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-164",
+    "nombre": "Richard Kelly",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-165",
+    "nombre": "Richard W. Haines",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-166",
+    "nombre": "Robert Townsend",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-167",
+    "nombre": "Robin Hardy",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-168",
+    "nombre": "Russ Meyer",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-169",
+    "nombre": "Sam Raimi",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-170",
+    "nombre": "Saul Bass",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-171",
+    "nombre": "Shane Carruth",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-172",
+    "nombre": "Stacy Title",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-173",
+    "nombre": "Stephen Chiodo",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-174",
+    "nombre": "Stuart Gordon",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-175",
+    "nombre": "Tetsuro Takeuchi",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-176",
+    "nombre": "Tobe Hooper",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-177",
+    "nombre": "Tod Browning",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-178",
+    "nombre": "Tommy Wiseau",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-179",
+    "nombre": "Trey Parker",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-180",
+    "nombre": "Umberto Lenzi",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-181",
+    "nombre": "Věra Chytilová",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  },
+  {
+    "id": "dir-182",
+    "nombre": "Werner Herzog",
+    "pais": "Internacional",
+    "estilo": "Cine de Culto / Autor",
+    "obra_destacada": "",
+    "bio": "Director y realizador cinematográfico."
+  }
+]

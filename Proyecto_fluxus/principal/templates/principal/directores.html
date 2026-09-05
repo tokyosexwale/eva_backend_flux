@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %}Directores | FLUX{% endblock %}
+
+{% block content %}
+<h2 class="text-danger mb-4">Directores Destacados del Cine de Culto</h2>
+<div class="row">
+    {% for dir in directores %}
+    <div class="col-md-6 mb-4">
+        <div class="card bg-secondary text-white h-100 border-danger">
+            <div class="card-body">
+                <h4 class="card-title text-warning">{{ dir.nombre }}</h4>
+                <h6 class="card-subtitle mb-2 text-dark fw-bold">{{ dir.pais }} | {{ dir.estilo }}</h6>
+                <p class="card-text">{{ dir.bio }}</p>
+                <p><strong>Obra Clave:</strong> <em>{{ dir.obra_destacada }}</em></p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
